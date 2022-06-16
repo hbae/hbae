@@ -6,7 +6,7 @@
 <br>
 연세대학교 독어독문학과 졸업(2022.02)  <br><br>
 
-<img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 4기 카뎃 (2021.04~2022.12)  <br><br>
+<img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 4기 카뎃 (2021.04~2021.12)  <br><br>
 
 삼성 청년 소프트웨어 아카데미(SSAFY) 7기 전공 자바반 (2022.01~ ) 👯 <br><br>
 
