@@ -22,9 +22,11 @@
  <br><br>
 
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alex950107)](https://solved.ac/alex950107)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbae&layout=compact)]
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alex950107)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbae&layout=compact)
 
 <!--
 **hbae/hbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
