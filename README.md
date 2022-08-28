@@ -21,7 +21,16 @@
  </p>
  <br><br>
 
-  
+## My Projects ✨
+
+[부동산 실거래가 조회 프로젝트 HappyHouse](https://github.com/hbae/HappyHouse)
+
+
+[모두와 함께 할 수 있는 챌린지 어플리케이션 OctopUs](https://github.com/hbae/OctopUS)
+
+<br>
+
+
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alex950107)
 
 <br>
